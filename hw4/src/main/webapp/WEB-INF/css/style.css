@@ -1,0 +1,39 @@
+body {
+    margin: auto;
+    width: 90%;
+
+}
+
+body {
+    background-color: orange;
+}
+
+
+h1 {
+    color : purple;
+}
+
+h2 {
+    color : black;
+}
+
+h3 {
+    color : lightred;
+}
+table{
+     border: 1px solid black;
+}
+th{
+     border: 1px solid purple;
+}
+td{
+     border: 1px solid purple;
+}
+
+item{
+    width:200px;
+    display:block;
+    background-color: transparent;
+    border: 5px solid transparent;
+    margin-right: 50px;
+    margin-bottom: 10px;
